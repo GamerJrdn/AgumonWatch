@@ -1,0 +1,41 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Webmonz",
+    "longName": "Agumon Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/digimon3.png",
+                "name": "IMAGE_DIGIMON_3",
+                "type": "png"
+            },
+            {
+                "file": "images/digimon2.png",
+                "name": "IMAGE_DIGIMON_2",
+                "type": "png"
+            },
+            {
+                "file": "images/digimon.png",
+                "name": "IMAGE_DIGIMON",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_24",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "AguWatch",
+    "uuid": "7a7f3109-af40-4299-87f1-fcf9ed0bbcea",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
